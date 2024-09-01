@@ -88,6 +88,3 @@ A comprehensive list of Git commands with descriptions for easy reference.
 
 - **`git archive [branch] --format=[zip|tar] --output=[filename]`**: Creates an archive of the specified branch in a specified format (zip or tar).
 
----
-
-Feel free to explore these commands to improve your Git workflow!
